@@ -1,9 +1,9 @@
 ---
-title: Image lazy loading and their implication
+title: Image lazy loading and their implications
 published: false
 description: How to build a improve your SEO placementthousand of followers in 90 days
 cover_image: https://thepracticaldev.s3.amazonaws.com/i/deadbeef.png
-tags: beginners, webdev, tutorial, career
+tags: beginners, webdev, tutorial, productivity
 ---
 # Image lazy loading
 If you are always trying to reduce load time 10ms to 100ms, if optimizing your algorithms is important to you then this is for you because today I will be sharing with you how you can enhance your UI/UX by lazy loading your image
@@ -113,7 +113,5 @@ Realize that even when all image are loaded, we are still listening to the windo
   * solution needs javascript
     - no javascript then you're content won't show
 
-General advices
----------------
-- bundle your resources (css, js, img, fonts) in one file - If you're using font-awesome or glyphicons you can use sprite to group all your images 
-- otherwise lazy load them - only load them when need
+
+[Lazy load them all](lazy_load_them_all/index.md)

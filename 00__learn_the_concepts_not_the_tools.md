@@ -24,9 +24,7 @@ Over all these few examples make you more productive and let you use your expert
     * pay as you go
 - you can still have your own storage or a modular background job
 ### Heroku for web hosting
-
-
-
+TODO
 
 ## Wrap up
 I think that we should not get lost by all these awesome available tools these days but constantly keep asking ourselves `yes, but how is this working ? :think:`. To my point of view, that is what makes us keep going up. We may
