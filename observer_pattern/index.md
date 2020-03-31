@@ -13,7 +13,7 @@ abstract class Observer<T> {
     listeners.forEach { listener -> listener.onChanged(value) }
   }
   
-  fun observer (listener: ObserverListener) {
+  fun observe (listener: ObserverListener) {
     this.listeners.add(listener)
   }
 
@@ -21,11 +21,29 @@ abstract class Observer<T> {
     fun onChanged(value: T)
   } 
 }
-class Counter: Observer<Int> {
+class CounterObserver: Observer<Int> {
   var counter: Int
   override setValue (value: Int) {
       counter = value
       notify(value)
   }
+
+  fun increment () {
+    this.setValue(count + 1)
+  }
+
+  fun decrement () {
+    this.setValue(count - 1)
+  }
 }
+
+// usage
+val counterObserver = CounterObserver()
+counterObserver.observe(object: ObserverListener<Int> {
+    override fun onChanged (value: Int) {
+        // update UI
+    }
+})
 ```
+
+Livedata as Observer that is lifecycle aware.
