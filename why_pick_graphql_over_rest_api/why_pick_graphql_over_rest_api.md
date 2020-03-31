@@ -1,7 +1,32 @@
 # Why pick GraphQL over REST API (part1)
 I am loving the GRANStack so much. I knew about graphql but I was not expecting this to blow my mind this way that I decided to share with you my experience so far.
 Don't get me wrong, I am not saying that REST is deprecated but I am saying if you fall under one of these cases you should consider GraphQL over REST API.
-![](graphql-playground.png)
+![](graphql_playground.png)
+
+## Summary
+- Why pick GraphQL over REST API (part1)
+    * Top situations when you need to consider GraphQL
+    * Pros
+- Today
+- When change needed
+- Back end don't need to change code to satisfy the new query
+- Wrap up
+- Twitter
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"># Why pick GraphQL over
+# Why pick GraphQL over REST API (part2)
+# Performance flaw: N+1 problem
+## What is the N+1 problem ?
+## The solution
+### In RDBMS
+# Security flaw
+## Using context
+## GraphQL directives
+### How ?
+### @auth
+### @hasRole
+## Security using directives
 
 ## Top situations when you need to consider GraphQL
 - you have multiple micro services
@@ -71,7 +96,7 @@ Don't get me wrong, I am not saying that REST is deprecated but I am saying if y
 
 # Wrap up
 Just in a single day I turned my REST API into a graphQL API with as little dependencies and wiring in 150 lines of codes
-![apollo-server.png](apollo-server.png)
+![apollo-server.png](apollo_server.png)
 
 
 # Twitter
@@ -204,7 +229,7 @@ const server = new ApolloServer({ schema, context: { driver } });
 ```
 - results
 ![](simple_query.png)
-![](neo4j-graphql-magic.gif)
+![](neo4j_graphql_js_magic.gif)
 
 Just with these 3 lines of codes, you have all the filtering, ordering stuff available alongside with the CRUD operations for your graphql schema
 

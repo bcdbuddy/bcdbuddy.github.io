@@ -14,6 +14,8 @@ tags: beginners, webdev, tutorial, productivity
 - bundle your resources (css, js, img, fonts) in one file - If you're using font-awesome or glyphicons you can use sprite to group all your images 
 - otherwise lazy load them - only load them when need
 
+```js
+```
 
 ## Wrap up
 - pros

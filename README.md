@@ -22,6 +22,8 @@ Meaning that they are almost done
 - [Javascript intro](javascript_intro/index.md)
 - [Your ISP may be spying on you](your_isp_may_be_spying_on_you/index.md) 
 - [Sentiment Analysis on NodeJS](sentiment_analysis_on_nodejs/index.md)
+- [Testing NodeJS/express with Neo4j as Database](testing_nodejs/index.md)
+- [Observer pattern](obser/index.md)
 
 All the others are on draft.
 
