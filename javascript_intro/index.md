@@ -116,7 +116,7 @@ Single threaded so how to do multiple tasks ? We expect multi tasking from a com
 // listening to the music while running your idea when coding and terminal opened as well
 ```js
 while (queue.waitForMessage()) {
-  quue.process.NextMessage();
+  queue.process.NextMessage();
 }
 ```
 
@@ -166,8 +166,7 @@ If you know C language then you already have a solid ground
 ### conditions: if, switch
 ### logical operators: &&, ||
 ### Truthy/Falsy
-Falsy values: false, 0, '', null, undefined
-all that is not Falsy
+Falsy values: false, 0, '', null, undefined. In other words: *all that is not Falsy*
 `Note`: Be aware that 
 ```js
   if (0) { // as well as all falsy values: false, 0, null, undefined

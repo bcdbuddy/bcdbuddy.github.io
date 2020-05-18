@@ -20,10 +20,11 @@ Meaning that they are almost done
 - [Image lazy loading](image_lazy_loading/image_lazy_loading.md)
 - [Repository pattern](repository_pattern/index.md)
 - [Javascript intro](javascript_intro/index.md)
-- [Your ISP may be spying on you](your_isp_may_be_spying_on_you/index.md) 
+- [Your ISP might be spying on you](your_isp_might_be_spying_on_you/index.md) 
 - [Sentiment Analysis on NodeJS](sentiment_analysis_on_nodejs/index.md)
 - [Testing NodeJS/express with Neo4j as Database](testing_nodejs/index.md)
-- [Observer pattern](obser/index.md)
+- [Observer pattern](observer_pattern/index.md)
+- [Strategy pattern](strategy_pattern/index.md)
 
 All the others are on draft.
 
