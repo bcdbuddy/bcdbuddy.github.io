@@ -3,7 +3,7 @@
 # Intro
 
 # Use case
-- lazy load image. See [the link](image-lazy-loading.md) for more.
+- [lazy load image](image_lazy_loading)
 - cool css transition when element appear or disappear
   * TODO: GIF from website about and resume
   * fade in when showing for the first time

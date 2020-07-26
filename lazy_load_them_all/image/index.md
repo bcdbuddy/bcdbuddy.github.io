@@ -1,10 +1,12 @@
 ---
-title: Image lazy loading and their implications
+title: Image lazy loading and their implications your SEO score
 published: false
-description: How to build a improve your SEO placementthousand of followers in 90 days
+description: Image lazy loading and their implications your SEO score
 cover_image: https://thepracticaldev.s3.amazonaws.com/i/deadbeef.png
-tags: beginners, webdev, tutorial, productivity
+tags: seo, webdev, tutorial, javascript
 ---
+This is part of a series: [Lazy load them all](/lazy_load_them_all)
+
 # Image lazy loading
 If you are always trying to reduce load time 10ms to 100ms, if optimizing your algorithms is important to you then this is for you because today I will be sharing with you how you can enhance your UI/UX by lazy loading your image
 ![](about_example.gif)

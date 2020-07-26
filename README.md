@@ -17,14 +17,15 @@ I always felt a little bit lazy about my blog especially when it comes to writin
 
 ## Upcoming
 Meaning that they are almost done
-- [Image lazy loading](image_lazy_loading/image_lazy_loading.md)
-- [Repository pattern](repository_pattern/index.md)
-- [Javascript intro](javascript_intro/index.md)
-- [Your ISP might be spying on you](your_isp_might_be_spying_on_you/index.md) 
-- [Sentiment Analysis on NodeJS](sentiment_analysis_on_nodejs/index.md)
-- [Testing NodeJS/express with Neo4j as Database](testing_nodejs/index.md)
-- [Observer pattern](observer_pattern/index.md)
-- [Strategy pattern](strategy_pattern/index.md)
+- [Image lazy loading](image_lazy_loading)
+- [Repository pattern](repository_pattern)
+- [Javascript intro](javascript_intro)
+- [Your ISP might be spying on you](your_isp_might_be_spying_on_you) 
+- [Sentiment Analysis on NodeJS](sentiment_analysis_on_nodejs)
+- [Testing NodeJS/express with Neo4j as Database](testing_nodejs)
+- [Observer pattern](observer_pattern)
+- [Strategy pattern](strategy_pattern)
+- [Grafikart testimonial](grafikart_testimonial)
 
 All the others are on draft.
 

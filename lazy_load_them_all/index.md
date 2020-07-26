@@ -6,9 +6,8 @@ cover_image: https://thepracticaldev.s3.amazonaws.com/i/deadbeef.png
 tags: beginners, webdev, tutorial, productivity
 ---
 # Lazy load them all
-- Styles
-- Scripts
-- [Image](../image_lazy_loading/image_lazy_loading.md)
+- [Scripts & Styles](script_style)
+- [Image](image_lazy_loading)
 
 ## General advices
 - bundle your resources (css, js, img, fonts) in one file - If you're using font-awesome or glyphicons you can use sprite to group all your images 

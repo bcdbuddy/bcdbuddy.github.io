@@ -13,4 +13,4 @@ ISP can sell your data to government or criminals
 - Orchid as one solution to privacy
 - Tor from Onion
 - VPN
-Hide your traffic from your ISP but can sell your data to advertisers too. So be carefull when using free VPN because it might be their way of making money from you.
+Hide your traffic from your ISP but can sell your data to advertisers too. So be careful when using free VPN because it might be their way of making money from you.
