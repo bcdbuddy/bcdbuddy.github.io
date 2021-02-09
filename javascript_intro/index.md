@@ -14,7 +14,7 @@ tags: beginners, webdev, javascript, career
 - Closing notes
   
 
----
+<!--
 # Presentation notes
 ## Who am I ?
 - <img src="https://github.com/bcdbuddy.png" width=150/>
@@ -24,16 +24,15 @@ tags: beginners, webdev, javascript, career
 - Full time problem solver
   * Whenever a problem occurs, there is a solution
   * if there is no solution then there is no problem
----
 
-<!-- ## This talk
+ ## This talk
 Interactive
   * Stop me if there is anything you would like me elaborate more
   * I speak fast
   * If we reach the end of this talk and you've no question that means:
     - you got it all (you're experts already) 
-    - you did not got a dime -->
-<!-- ## Your background ?
+    - you did not got a dime
+## Your background ?
 You know a bit about programming (python)
   * who are you ?
   * why are you attending this talk ?
@@ -166,8 +165,6 @@ const A = 34 == '34' // true
 const B = 34 === '34' // false
 ``` 
 
-
----
 # Run your first javascript program
 ## Where does this run ?
 You need an interpreter remember.
@@ -189,7 +186,6 @@ You can run code with zero installation right in the browser. (You can code a wh
 <script src="index.js"/>
 ```
 
----
 # What can you do with javascript ?
 You can do anything from web, mobile to desktop.
 
@@ -216,8 +212,6 @@ With:
 - Ionic
 - VueNative
 - Nativescript
-
----
 
 # What I like about Javascript
 - low to no learning curve

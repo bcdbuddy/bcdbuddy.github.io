@@ -25,6 +25,8 @@ Meaning that they are almost done
 - [Testing NodeJS/express with Neo4j as Database](testing_nodejs)
 - [Observer pattern](observer_pattern)
 - [Strategy pattern](strategy_pattern)
+- [QR code](qr-code)
+- [Push notification](push_notifications)
 - [Grafikart testimonial](grafikart_testimonial)
 
 All the others are on draft.
@@ -37,8 +39,8 @@ All the others are on draft.
 - Java/Kotlin
 
 ## Frameworks
-- Nodejs
-- ExpressJS
+- VueJS/React
+- Nodejs - ExpressJS
 - Laravel
 - Android
 
