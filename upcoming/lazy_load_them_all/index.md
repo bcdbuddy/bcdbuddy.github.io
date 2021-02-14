@@ -7,7 +7,8 @@ tags: beginners, webdev, tutorial, productivity
 ---
 # Lazy load them all
 - [Scripts & Styles](script_style)
-- [Image](image_lazy_loading)
+- [Images](image_lazy_loading)
+- [Comments](comments)
 
 ## General advices
 - bundle your resources (css, js, img, fonts) in one file - If you're using font-awesome or glyphicons you can use sprite to group all your images 

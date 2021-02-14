@@ -1,5 +1,10 @@
 # _SMS Buddy_
 Automate your 
+Sending sms from your app
+## Providers
+Nexmo
+Twilio
+Smm gateway
 
 # Summary
 - Context
@@ -53,5 +58,4 @@ How it works:
 I had a lot of fun building this simple yet useful _sms buddy_ 
 You can play with it, fork it and use it as much as you like I don't mind. Code is available at https://github.com/bcdbuddy/sms-buddy. `Using tech for the greater good`
 
-If you would like to be notified when I will release my blog, [subscribe to my newsletter](https://babacar-cisse-dia.com/user/create) coming soon.
 

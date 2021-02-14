@@ -16,7 +16,7 @@ If you have any doubts out that feel free to run this code. You'll be happy to n
 ```js
   function codeBlocker () {
     let i = 0;
-    while (i< Infinity) {
+    while (i < Infinity) {
       i++
     }
   }
